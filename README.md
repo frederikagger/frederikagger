@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frederikagger&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Frederiks github stats](https://github-readme-stats.vercel.app/api?username=frederikagger&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederikagger&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederikagger&hide=css,html,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederikagger&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **frederikagger/frederikagger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
